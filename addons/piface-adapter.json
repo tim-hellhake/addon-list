@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/piface-adapter-0.1.0-linux-arm-v8.tgz",
-      "checksum": "e035c7ed217f7046758ee250d0147ab661e1fb9482c48cc83b48dd2fe763575d",
+      "version": "0.1.1",
+      "url": "https://github.com/tim-hellhake/piface-adapter/releases/download/0.1.1/piface-adapter-0.1.1-linux-arm-v8.tgz",
+      "checksum": "7c8380b4f94723ab5f19b65ee730e710288511164de0cd86df85bc6c702ef72b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/piface-adapter-0.1.0-linux-arm-v10.tgz",
-      "checksum": "1e2ecf4c955c842802bed5205c1bf09e2f1816ebc1b360d590f4a5f2237cdc30",
+      "version": "0.1.1",
+      "url": "https://github.com/tim-hellhake/piface-adapter/releases/download/0.1.1/piface-adapter-0.1.1-linux-arm-v10.tgz",
+      "checksum": "59eb02addc99f1fd32684eda5de0e63926856003ebb85a764e4fbc71c2bfc3dd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "72"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/piface-adapter-0.1.0-linux-arm-v12.tgz",
-      "checksum": "c90fcd2f6745813c9cc1a32a3a0246d79981c096b13cd2d95c9ef4700c4a80f9",
+      "version": "0.1.1",
+      "url": "https://github.com/tim-hellhake/piface-adapter/releases/download/0.1.1/piface-adapter-0.1.1-linux-arm-v12.tgz",
+      "checksum": "4fcb536cd1801c831f32abb773dc73f27aa52ab1be7c594892107440f7e552c3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
