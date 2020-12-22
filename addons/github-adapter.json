@@ -8,20 +8,192 @@
   "primary_type": "adapter",
   "packages": [
     {
-      "architecture": "any",
+      "architecture": "linux-arm",
       "language": {
         "name": "nodejs",
         "versions": [
-          "any"
+          "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.2.0/github-adapter-0.2.0.tgz",
-      "checksum": "e538ab1857e86908a0cba7a94eb9f022db42f1aa8f1020bb1bbe65123b610547",
-      "api": {
-        "min": 2,
-        "max": 2
+      "version": "0.6.0",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.6.0/github-adapter-0.6.0-linux-arm-v10.tgz",
+      "checksum": "\n\n\n\n\n<!DOCTYPE",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
       },
+      "version": "0.6.0",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.6.0/github-adapter-0.6.0-linux-arm64-v10.tgz",
+      "checksum": "\n\n\n\n\n<!DOCTYPE",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.6.0",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.6.0/github-adapter-0.6.0-linux-x64-v10.tgz",
+      "checksum": "\n\n\n\n\n<!DOCTYPE",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.6.0",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.6.0/github-adapter-0.6.0-darwin-x64-v10.tgz",
+      "checksum": "\n\n\n\n\n<!DOCTYPE",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.6.0",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.6.0/github-adapter-0.6.0-linux-arm-v12.tgz",
+      "checksum": "\n\n\n\n\n<!DOCTYPE",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.6.0",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.6.0/github-adapter-0.6.0-linux-arm64-v12.tgz",
+      "checksum": "\n\n\n\n\n<!DOCTYPE",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.6.0",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.6.0/github-adapter-0.6.0-linux-x64-v12.tgz",
+      "checksum": "\n\n\n\n\n<!DOCTYPE",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.6.0",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.6.0/github-adapter-0.6.0-darwin-x64-v12.tgz",
+      "checksum": "\n\n\n\n\n<!DOCTYPE",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.6.0",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.6.0/github-adapter-0.6.0-linux-arm-v14.tgz",
+      "checksum": "\n\n\n\n\n<!DOCTYPE",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.6.0",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.6.0/github-adapter-0.6.0-linux-arm64-v14.tgz",
+      "checksum": "\n\n\n\n\n<!DOCTYPE",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.6.0",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.6.0/github-adapter-0.6.0-linux-x64-v14.tgz",
+      "checksum": "\n\n\n\n\n<!DOCTYPE",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.6.0",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.6.0/github-adapter-0.6.0-darwin-x64-v14.tgz",
+      "checksum": "\n\n\n\n\n<!DOCTYPE",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
